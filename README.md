@@ -1,5 +1,4 @@
-# # Git & Git-hub
-
+# # Welcome to Git and GitHub at ChaiCode Cohort!
 ### -What is git ?
 
 Git is a distributed version control system that helps developers track changes in their code, collaborate with others, and manage different versions of their projects.
